@@ -2,7 +2,7 @@
 
 ## Description
 
-This project involves Postman API collection to fetch the Transfer Credit informations.
+This project involves Postman API collection to fetch the Transfer Credit Informations.
 
 ## Installation
 
